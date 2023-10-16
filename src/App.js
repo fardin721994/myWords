@@ -1,17 +1,17 @@
 function App() {
   const data = [
     {
-      word: "ask",
-      pronunciation: "/ ɑːsk $ æsk /",
+      word: "book",
+      pronunciation: "/ bʊk /",
       tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
       frequency: [
         { text: "S1", title: "Top 1000 spoken words" },
         { text: "W1", title: "Top 1000 written words" },
       ],
-      partOfSpeech: "verb",
+      partOfSpeech: "noun",
       register: "",
       inflections: "",
-      title: "ask_verb_1",
+      title: "book_noun_1",
       images: [],
       geo: "",
       f2n: "",
@@ -20,58 +20,34 @@ function App() {
         definition: {
           lexUnit: "",
           registers: [],
-          text: "to speak or write to someone in order to get an answer, information, or a solution",
+          text: "a set of printed pages that are held together in a cover so that you can read them",
           synonyms: [],
           oppositions: [],
         },
         translation: "",
         examples: [
-          { type: "example", text: "‘What’s your name?’ she asked." },
-          { type: "example", text: "Don’t ask him – he won’t know." },
           {
             type: "example",
-            text: "That kid’s always asking awkward questions .",
+            text: "I’ve just started reading a book by Graham Greene.",
           },
-          { type: "grammer", text: "ask who/what/where etc" },
-          { type: "example", text: "I asked him where he lived." },
-          { type: "grammer", text: "ask somebody something" },
-          {
-            type: "example",
-            text: "We’ll have to ask someone the way to the station.",
-          },
-          { type: "grammer", text: "ask somebody if/whether" },
-          {
-            type: "example",
-            text: "Go and ask Tom whether he’s coming tonight.",
-          },
-          { type: "grammer", text: "ask (somebody) about something" },
-          {
-            type: "example",
-            text: "Visitors usually ask about the history of the castle.",
-          },
-          {
-            type: "grammer",
-            text: "ask around(= ask in a lot of places or ask a lot of people )",
-          },
-          {
-            type: "example",
-            text: "I’ll ask around, see if I can find you a place to stay.",
-          },
+          { type: "example", text: "a cookery book" },
+          { type: "grammer", text: "book about/on" },
+          { type: "example", text: "a book about cats" },
         ],
       },
     },
     {
-      word: "ask",
-      pronunciation: "/ ɑːsk $ æsk /",
+      word: "book",
+      pronunciation: "/ bʊk /",
       tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
       frequency: [
         { text: "S1", title: "Top 1000 spoken words" },
         { text: "W1", title: "Top 1000 written words" },
       ],
-      partOfSpeech: "verb",
+      partOfSpeech: "noun",
       register: "",
       inflections: "",
-      title: "ask_verb_2",
+      title: "book_noun_2",
       images: [],
       geo: "",
       f2n: "",
@@ -80,55 +56,29 @@ function App() {
         definition: {
           lexUnit: "",
           registers: [],
-          text: "to make a request for help, advice, information etc",
+          text: "a set of sheets of paper held together in a cover so that you can write on them",
           synonyms: [],
           oppositions: [],
         },
         translation: "",
         examples: [
-          {
-            type: "example",
-            text: "If you need anything, you only have to ask.",
-          },
-          { type: "grammer", text: "ask somebody to do something" },
-          { type: "example", text: "Ask John to mail those letters tomorrow." },
-          { type: "grammer", text: "ask to do something" },
-          { type: "example", text: "Karen asked to see the doctor." },
-          { type: "grammer", text: "ask for" },
-          {
-            type: "example",
-            text: "Some people find it difficult to ask for help.",
-          },
-          { type: "grammer", text: "ask somebody for something" },
-          {
-            type: "example",
-            text: "He repeatedly asked Bailey for the report.",
-          },
-          {
-            type: "grammer",
-            text: "ask (somebody) if/whether you can do something",
-          },
-          { type: "example", text: "Ask your mom if you can come with us." },
-          { type: "grammer", text: "ask that" },
-          {
-            type: "example",
-            text: "Was it too much to ask that he be allowed some privacy?",
-          },
+          { type: "example", text: "a black address book" },
+          { type: "example", text: "a notebook" },
         ],
       },
     },
     {
-      word: "ask",
-      pronunciation: "/ ɑːsk $ æsk /",
+      word: "book",
+      pronunciation: "/ bʊk /",
       tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
       frequency: [
         { text: "S1", title: "Top 1000 spoken words" },
         { text: "W1", title: "Top 1000 written words" },
       ],
-      partOfSpeech: "verb",
+      partOfSpeech: "noun",
       register: "",
       inflections: "",
-      title: "ask_verb_3",
+      title: "book_noun_3",
       images: [],
       geo: "",
       f2n: "",
@@ -137,31 +87,123 @@ function App() {
         definition: {
           lexUnit: "",
           registers: [],
-          text: "to want a particular amount of money for something you are selling",
+          text: "a set of things such as stamps, matches, or tickets, held together inside a paper cover",
           synonyms: [],
           oppositions: [],
         },
         translation: "",
-        examples: [
-          { type: "example", text: "How much is he asking?" },
-          { type: "collocation", text: "ask $50/$1,000 etc for something" },
-          { type: "example", text: "He’s asking £2,000 for his car." },
-          { type: "example", text: "They’re asking a fortune for that house." },
-        ],
+        examples: [{ type: "example", text: "a cheque book" }],
       },
     },
     {
-      word: "ask",
-      pronunciation: "/ ɑːsk $ æsk /",
+      word: "book",
+      pronunciation: "/ bʊk /",
       tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
       frequency: [
         { text: "S1", title: "Top 1000 spoken words" },
         { text: "W1", title: "Top 1000 written words" },
       ],
+      partOfSpeech: "noun",
+      register: "",
+      inflections: "",
+      title: "book_noun_9",
+      images: [],
+      geo: "",
+      f2n: "",
+      meaning: {
+        index: "9",
+        definition: {
+          lexUnit: "",
+          registers: [],
+          text: "one of the parts that a very large book such as the Bible is divided into",
+          synonyms: [],
+          oppositions: [],
+        },
+        translation: "",
+        examples: [
+          { type: "grammer", text: "book of" },
+          { type: "example", text: "the Book of Isaiah" },
+        ],
+      },
+    },
+    {
+      word: "book",
+      pronunciation: "/ bʊk /",
+      tooltip: { text: "●●○", title: "Core vocabulary: Medium-frequency" },
+      frequency: [{ text: "S3", title: "Top 3000 spoken words" }],
       partOfSpeech: "verb",
       register: "",
       inflections: "",
-      title: "ask_verb_4",
+      title: "book_verb_1",
+      images: [],
+      geo: "",
+      f2n: "",
+      meaning: {
+        index: "1",
+        definition: {
+          lexUnit: "",
+          registers: [],
+          text: "to make arrangements to stay in a place, eat in a restaurant, go to a theatre etc at a particular time in the future",
+          synonyms: [],
+          oppositions: [],
+        },
+        translation: "",
+        examples: [
+          { type: "example", text: "Have you booked a holiday this year?" },
+          {
+            type: "example",
+            text: "The flight was already fully booked (= no more seats were available ) .",
+          },
+          {
+            type: "example",
+            text: "To get tickets, you have to book in advance .",
+          },
+          {
+            type: "example",
+            text: "The show’s booked solid (= all the tickets have been sold ) until February.",
+          },
+        ],
+      },
+    },
+    {
+      word: "book",
+      pronunciation: "/ bʊk /",
+      tooltip: { text: "●●○", title: "Core vocabulary: Medium-frequency" },
+      frequency: [{ text: "S3", title: "Top 3000 spoken words" }],
+      partOfSpeech: "verb",
+      register: "",
+      inflections: "",
+      title: "book_verb_2",
+      images: [],
+      geo: "",
+      f2n: "",
+      meaning: {
+        index: "2",
+        definition: {
+          lexUnit: "",
+          registers: [],
+          text: "to arrange for someone such as a singer to perform on a particular date",
+          synonyms: [],
+          oppositions: [],
+        },
+        translation: "",
+        examples: [
+          {
+            type: "example",
+            text: "The band was booked for a benefit show in Los Angeles.",
+          },
+        ],
+      },
+    },
+    {
+      word: "book",
+      pronunciation: "/ bʊk /",
+      tooltip: { text: "●●○", title: "Core vocabulary: Medium-frequency" },
+      frequency: [{ text: "S3", title: "Top 3000 spoken words" }],
+      partOfSpeech: "verb",
+      register: "",
+      inflections: "",
+      title: "book_verb_4",
       images: [],
       geo: "",
       f2n: "",
@@ -170,53 +212,27 @@ function App() {
         definition: {
           lexUnit: "",
           registers: [],
-          text: "to invite someone to your home, to go out with you etc",
+          text: "to arrange for someone to go to a hotel, fly on a plane etc",
           synonyms: [],
           oppositions: [],
         },
         translation: "",
         examples: [
-          { type: "grammer", text: "ask somebody to do something" },
-          {
-            type: "example",
-            text: "Let’s ask them to have dinner with us some time.",
-          },
-          {
-            type: "grammer",
-            text: "ask somebody out(= ask someone, especially someone of the opposite sex, to go to a film, a restaurant etc with you )",
-          },
-          { type: "example", text: "Jerry’s too scared to ask her out." },
-          {
-            type: "grammer",
-            text: "ask somebody in(= invite someone into your house, office etc )",
-          },
-          {
-            type: "example",
-            text: "Don’t leave them standing on the doorstep – ask them in!",
-          },
-          {
-            type: "grammer",
-            text: "ask somebody over/round(= invite someone to come to your home )",
-          },
-          {
-            type: "example",
-            text: "We must ask our new neighbours over for a drink.",
-          },
+          { type: "example", text: "I’ve booked you a flight on Saturday." },
+          { type: "grammer", text: "book somebody on/in etc" },
+          { type: "example", text: "I’ll book you in at the Hilton." },
         ],
       },
     },
     {
-      word: "ask",
-      pronunciation: "/ ɑːsk $ æsk /",
-      tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
-      frequency: [
-        { text: "S1", title: "Top 1000 spoken words" },
-        { text: "W1", title: "Top 1000 written words" },
-      ],
+      word: "book",
+      pronunciation: "/ bʊk /",
+      tooltip: { text: "●●○", title: "Core vocabulary: Medium-frequency" },
+      frequency: [{ text: "S3", title: "Top 3000 spoken words" }],
       partOfSpeech: "verb",
       register: "",
       inflections: "",
-      title: "ask_verb_5",
+      title: "book_verb_5",
       images: [],
       geo: "",
       f2n: "",
@@ -225,7 +241,7 @@ function App() {
         definition: {
           lexUnit: "",
           registers: [],
-          text: "if you ask something of someone, you want them to do it for you",
+          text: "to put someone’s name officially in police records, along with the charge made against them",
           synonyms: [],
           oppositions: [],
         },
@@ -233,227 +249,85 @@ function App() {
         examples: [
           {
             type: "example",
-            text: "It would be better if he cooperated, but perhaps I’m asking too much.",
-          },
-          { type: "grammer", text: "ask something of somebody" },
-          { type: "example", text: "You have no right to ask anything of me." },
-          {
-            type: "example",
-            text: "Expecting the children to do an hour’s homework after school is asking a lot of them.",
+            text: "Smith was booked on suspicion of attempted murder.",
           },
         ],
       },
     },
     {
-      word: "ask",
-      pronunciation: "/ ɑːsk $ æsk /",
-      tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
-      frequency: [
-        { text: "S1", title: "Top 1000 spoken words" },
-        { text: "W1", title: "Top 1000 written words" },
-      ],
+      word: "book",
+      pronunciation: "/ bʊk /",
+      tooltip: { text: "●●○", title: "Core vocabulary: Medium-frequency" },
+      frequency: [{ text: "S3", title: "Top 3000 spoken words" }],
       partOfSpeech: "verb",
       register: "",
       inflections: "",
-      title: "ask_verb_7",
+      title: "book_verb_6",
       images: [],
-      geo: "",
-      f2n: "",
-      meaning: {
-        index: "7",
-        definition: {
-          lexUnit: "be asking for trouble",
-          registers: [],
-          text: "to do something that is very likely to have a bad effect or result",
-          synonyms: [],
-          oppositions: [],
-        },
-        translation: "",
-        examples: [
-          {
-            type: "example",
-            text: "Saying that to a feminist is just asking for trouble.",
-          },
-        ],
-      },
-    },
-    {
-      word: "ask",
-      pronunciation: "/ ɑːsk $ æsk /",
-      tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
-      frequency: [
-        { text: "S1", title: "Top 1000 spoken words" },
-        { text: "W1", title: "Top 1000 written words" },
-      ],
-      partOfSpeech: "verb",
-      register: "",
-      inflections: "",
-      title: "ask_verb_6",
-      images: [],
-      geo: "",
+      geo: ["British English"],
       f2n: "",
       meaning: {
         index: "6",
         definition: {
-          lexUnit: "I/you can’t/couldn’t ask for a better something",
+          lexUnit: "",
           registers: [],
-          text: "used to say that you are very happy with what you have or with a situation",
+          text: "when a referee in a sports game books a player who has broken the rules, he or she officially writes down the player’s name in a book as a punishment",
           synonyms: [],
           oppositions: [],
         },
         translation: "",
-        examples: [
-          { type: "example", text: "I couldn’t ask for a better boss." },
-        ],
+        examples: [],
       },
     },
     {
-      word: "ask",
-      pronunciation: "/ ɑːsk $ æsk /",
+      word: "book",
+      pronunciation: "/ bʊk /",
       tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
       frequency: [
         { text: "S1", title: "Top 1000 spoken words" },
         { text: "W1", title: "Top 1000 written words" },
       ],
-      partOfSpeech: "verb",
-      register: "",
-      inflections: "",
-      title: "ask_verb_13",
-      images: [],
-      geo: "",
-      f2n: "",
-      meaning: {
-        index: "13",
-        definition: {
-          lexUnit: "be somebody’s for the asking",
-          registers: ["informal"],
-          text: "if something is yours for the asking, you can have it if you want it",
-          synonyms: [],
-          oppositions: [],
-        },
-        translation: "",
-        examples: [
-          { type: "example", text: "The job was hers for the asking." },
-        ],
-      },
-    },
-    {
-      word: "ask",
-      pronunciation: "/ ɑːsk $ æsk /",
-      tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
-      frequency: [
-        { text: "S1", title: "Top 1000 spoken words" },
-        { text: "W1", title: "Top 1000 written words" },
-      ],
-      partOfSpeech: "verb",
-      register: "",
-      inflections: "",
-      title: "ask_verb_12",
-      images: [],
-      geo: "",
-      f2n: "",
-      meaning: {
-        index: "12",
-        definition: {
-          lexUnit: "be asking for it",
-          registers: [],
-          text: "used to say that someone deserves something bad that happens to them",
-          synonyms: [],
-          oppositions: [],
-        },
-        translation: "",
-        examples: [
-          {
-            type: "example",
-            text: "It’s his own fault he got hit – he was asking for it.",
-          },
-        ],
-      },
-    },
-    {
-      word: "ask",
-      pronunciation: "/ ɑːsk $ æsk /",
-      tooltip: "",
-      frequency: [],
       partOfSpeech: "noun",
       register: "",
       inflections: "",
-      title: "ask",
-      images: [],
-      geo: "",
-      f2n: "",
-      meaning: {
-        index: null,
-        definition: {
-          lexUnit: "a big ask",
-          registers: [],
-          text: "a situation in a sports competition when someone needs to get a lot of points or do something very difficult in order to win",
-          synonyms: [],
-          oppositions: [],
-        },
-        translation: "",
-        examples: [
-          {
-            type: "example",
-            text: "We need to win the next three games. It’s a big ask, but I’m confident we can do it.",
-          },
-        ],
-      },
-    },
-    {
-      word: "ask",
-      pronunciation: "/ ɑːsk $ æsk /",
-      tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
-      frequency: [
-        { text: "S1", title: "Top 1000 spoken words" },
-        { text: "W1", title: "Top 1000 written words" },
-      ],
-      partOfSpeech: "verb",
-      register: "",
-      inflections: "",
-      title: "ask_verb_11",
-      images: [],
-      geo: "",
-      f2n: "",
-      meaning: {
-        index: "11",
-        definition: {
-          lexUnit: "don’t ask",
-          registers: [],
-          text: "used to say that something is too embarrassing or strange to explain",
-          synonyms: [],
-          oppositions: [],
-        },
-        translation: "",
-        examples: [
-          {
-            type: "example",
-            text: "‘What was that woman selling?’ ‘Don’t ask.’",
-          },
-        ],
-      },
-    },
-    {
-      word: "ask",
-      pronunciation: "/ ɑːsk $ æsk /",
-      tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
-      frequency: [
-        { text: "S1", title: "Top 1000 spoken words" },
-        { text: "W1", title: "Top 1000 written words" },
-      ],
-      partOfSpeech: "verb",
-      register: "",
-      inflections: "",
-      title: "ask_verb_8",
+      title: "book_noun_8",
       images: [],
       geo: "",
       f2n: "",
       meaning: {
         index: "8",
         definition: {
-          lexUnit: "ask yourself something",
+          lexUnit: "be on the books",
           registers: [],
-          text: "to think carefully and honestly about something",
+          text: "if a law is on the books, it is part of the set of laws in a country, town, area etc",
+          synonyms: [],
+          oppositions: [],
+        },
+        translation: "",
+        examples: [],
+      },
+    },
+    {
+      word: "book",
+      pronunciation: "/ bʊk /",
+      tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
+      frequency: [
+        { text: "S1", title: "Top 1000 spoken words" },
+        { text: "W1", title: "Top 1000 written words" },
+      ],
+      partOfSpeech: "noun",
+      register: "",
+      inflections: "",
+      title: "book_noun_5",
+      images: [],
+      geo: "",
+      f2n: "",
+      meaning: {
+        index: "5",
+        definition: {
+          lexUnit: "by the book",
+          registers: [],
+          text: "exactly according to rules or instructions",
           synonyms: [],
           oppositions: [],
         },
@@ -461,108 +335,293 @@ function App() {
         examples: [
           {
             type: "example",
-            text: "You have to ask yourself where your responsibilities really lie.",
+            text: "She feels she has to go by the book and can’t use her creativity.",
+          },
+          { type: "collocation", text: "do/play something by the book" },
+          {
+            type: "example",
+            text: "The police were careful to do everything by the book.",
           },
         ],
       },
     },
     {
-      word: "ask",
-      pronunciation: "/ ɑːsk $ æsk /",
+      word: "book",
+      pronunciation: "/ bʊk /",
       tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
       frequency: [
         { text: "S1", title: "Top 1000 spoken words" },
         { text: "W1", title: "Top 1000 written words" },
       ],
-      partOfSpeech: "verb",
+      partOfSpeech: "noun",
       register: "",
       inflections: "",
-      title: "ask_verb_9",
-      images: [],
-      geo: "",
-      f2n: "",
-      meaning: {
-        index: "9",
-        definition: {
-          lexUnit: "if you ask me",
-          registers: [],
-          text: "used to emphasize your own opinion",
-          synonyms: [],
-          oppositions: [],
-        },
-        translation: "",
-        examples: [
-          { type: "example", text: "He’s just plain crazy, if you ask me." },
-        ],
-      },
-    },
-    {
-      word: "ask",
-      pronunciation: "/ ɑːsk $ æsk /",
-      tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
-      frequency: [
-        { text: "S1", title: "Top 1000 spoken words" },
-        { text: "W1", title: "Top 1000 written words" },
-      ],
-      partOfSpeech: "verb",
-      register: "",
-      inflections: "",
-      title: "ask_verb_10",
+      title: "book_noun_10",
       images: [],
       geo: "",
       f2n: "",
       meaning: {
         index: "10",
         definition: {
-          lexUnit: "don’t ask me",
-          registers: [],
-          text: "used to say you do not know the answer to something",
+          lexUnit: "in my book",
+          registers: ["spoken"],
+          text: "said when giving your opinion",
           synonyms: [],
           oppositions: [],
         },
         translation: "",
         examples: [
-          { type: "example", text: "‘Where’s she gone then?’ ‘Don’t ask me!’" },
+          {
+            type: "example",
+            text: "In my book, nothing is more important than football.",
+          },
+        ],
+      },
+    },
+    {
+      word: "book",
+      pronunciation: "/ bʊk /",
+      tooltip: { text: "●●○", title: "Core vocabulary: Medium-frequency" },
+      frequency: [{ text: "S3", title: "Top 3000 spoken words" }],
+      partOfSpeech: "verb",
+      register: "",
+      inflections: "",
+      title: "book_verb_3",
+      images: [],
+      geo: "",
+      f2n: "",
+      meaning: {
+        index: "3",
+        definition: {
+          lexUnit: "be booked up",
+          registers: [],
+          text: "a)if a hotel, restaurant etc is booked up, there are no more rooms, places, seats etc still available\nb)if someone is booked up, they are extremely busy and have arranged a lot of things they must do\n",
+          synonyms: [],
+          oppositions: [],
+        },
+        translation: "",
+        examples: [
+          { type: "example", text: "The courses quickly get booked up." },
+          {
+            type: "example",
+            text: "I’m all booked up this week – can we get together next Friday?",
+          },
+        ],
+      },
+    },
+    {
+      word: "book",
+      pronunciation: "/ bʊk /",
+      tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
+      frequency: [
+        { text: "S1", title: "Top 1000 spoken words" },
+        { text: "W1", title: "Top 1000 written words" },
+      ],
+      partOfSpeech: "noun",
+      register: "",
+      inflections: "",
+      title: "book_noun_11",
+      images: [],
+      geo: "",
+      f2n: "",
+      meaning: {
+        index: "11",
+        definition: {
+          lexUnit: "bring somebody to book",
+          registers: [],
+          text: "to punish someone for breaking laws or rules, especially when you have been trying to punish them for a long time",
+          synonyms: [],
+          oppositions: [],
+        },
+        translation: "",
+        examples: [
+          { type: "example", text: "War criminals must be brought to book." },
+        ],
+      },
+    },
+    {
+      word: "book",
+      pronunciation: "/ bʊk /",
+      tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
+      frequency: [
+        { text: "S1", title: "Top 1000 spoken words" },
+        { text: "W1", title: "Top 1000 written words" },
+      ],
+      partOfSpeech: "noun",
+      register: "",
+      inflections: "",
+      title: "book_noun_7",
+      images: [],
+      geo: "",
+      f2n: "",
+      meaning: {
+        index: "7",
+        definition: {
+          lexUnit: "be in somebody’s good/bad books",
+          registers: ["informal"],
+          text: "used to say that someone is pleased or annoyed with you",
+          synonyms: [],
+          oppositions: [],
+        },
+        translation: "",
+        examples: [],
+      },
+    },
+    {
+      word: "book",
+      pronunciation: "/ bʊk /",
+      tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
+      frequency: [
+        { text: "S1", title: "Top 1000 spoken words" },
+        { text: "W1", title: "Top 1000 written words" },
+      ],
+      partOfSpeech: "noun",
+      register: "",
+      inflections: "",
+      title: "book_noun_6",
+      images: [],
+      geo: "",
+      f2n: "",
+      meaning: {
+        index: "6",
+        definition: {
+          lexUnit: "a closed book",
+          registers: [],
+          text: "a subject that you do not understand or know anything about",
+          synonyms: [],
+          oppositions: [],
+        },
+        translation: "",
+        examples: [
+          { type: "example", text: "Chemistry is a closed book to me." },
+        ],
+      },
+    },
+    {
+      word: "book",
+      pronunciation: "/ bʊk /",
+      tooltip: { text: "●●●", title: "Core vocabulary: High-frequency" },
+      frequency: [
+        { text: "S1", title: "Top 1000 spoken words" },
+        { text: "W1", title: "Top 1000 written words" },
+      ],
+      partOfSpeech: "noun",
+      register: "",
+      inflections: "",
+      title: "book_noun_4",
+      images: [],
+      geo: "",
+      f2n: "",
+      meaning: {
+        index: "4",
+        definition: {
+          lexUnit: "books",
+          registers: [],
+          text: "a)written records of the financial accounts of a business\nb)the names of people who use a company’s services, or who are sent by a company to work for other people\n",
+          synonyms: [],
+          oppositions: [],
+        },
+        translation: "",
+        examples: [
+          {
+            type: "example",
+            text: "An accountant will examine the company’s books.",
+          },
+          {
+            type: "example",
+            text: "a small firm that is having problems balancing the books (= keeping its profits and spending equal )",
+          },
+          { type: "grammer", text: "on the books" },
+          {
+            type: "example",
+            text: "They have £50 billion worth of orders on the books.",
+          },
+          { type: "grammer", text: "on somebody’s books" },
+          {
+            type: "example",
+            text: "an agent with a lot of popular actors on his books",
+          },
         ],
       },
     },
   ];
   const nounWords = data.filter((word) => word.partOfSpeech === "noun");
   const verbWords = data.filter((word) => word.partOfSpeech === "verb");
+  const phrasalVerbWords = data.filter(
+    (word) => word.partOfSpeech === "phrasal verb"
+  );
   const adjectiveWords = data.filter(
     (word) => word.partOfSpeech === "adjective"
   );
+
+  const adverbWords = data.filter((word) => word.partOfSpeech === "adverb");
   const suffixWords = data.filter((word) => word.partOfSpeech === "suffix");
   const interjectionWords = data.filter(
     (word) => word.partOfSpeech === "interjection"
   );
-
+  const prepositionWords = data.filter(
+    (word) => word.partOfSpeech === "preposition"
+  );
+  const prefixWords = data.filter((word) => word.partOfSpeech === "prefix");
+  /////////////
   const sortedNouns = nounWords.sort(
     (a, b) => Number(a.meaning.index) - Number(b.meaning.index)
   );
   const sortedVerbs = verbWords.sort(
     (a, b) => Number(a.meaning.index) - Number(b.meaning.index)
   );
+  const sortedPhrasalVerbs = phrasalVerbWords.sort(
+    (a, b) => Number(a.meaning.index) - Number(b.meaning.index)
+  );
   const sortedAdjectives = adjectiveWords.sort(
     (a, b) => Number(a.meaning.index) - Number(b.meaning.index)
   );
+  const sortedAdverbs = adverbWords.sort(
+    (a, b) => Number(a.meaning.index) - Number(b.meaning.index)
+  );
+
   const sortedSuffixes = suffixWords.sort(
     (a, b) => Number(a.meaning.index) - Number(b.meaning.index)
   );
   const sortedInterjections = interjectionWords.sort(
     (a, b) => Number(a.meaning.index) - Number(b.meaning.index)
   );
+  const sortedPrepositions = prepositionWords.sort(
+    (a, b) => Number(a.meaning.index) - Number(b.meaning.index)
+  );
+  const sortedPrefixes = prefixWords.sort(
+    (a, b) => Number(a.meaning.index) - Number(b.meaning.index)
+  );
+  ///////////
   const words = [
     ...sortedNouns,
     ...sortedVerbs,
+    ...sortedPhrasalVerbs,
     ...sortedAdjectives,
+    ...sortedAdverbs,
     ...sortedSuffixes,
     ...sortedInterjections,
+    ...sortedPrepositions,
+    ...sortedPrefixes,
   ];
   if (data.length !== words.length)
-    console.error("THERE IS A PROBLEM. SOME WORDS WERE MISSED.");
+    console.error(
+      `THERE IS A PROBLEM. ${data.length - words.length} WORDS WERE MISSED.`
+    );
   console.log("words sorted", words);
 
+  ///// EXTRACT THE WORDS:
+  // const previousWords = [];
+  // let data = [];
+  // data = data.map((item) => {
+  //   const index = item.indexOf("_");
+  //   let newItem = index !== -1 ? item.slice(0, index).trim() : item.trim();
+  //   return newItem;
+  // });
+  // data = [...new Set(data)];
+  // data = data.filter((item) => !previousWords.includes(item));
+  // console.log("dddddddd", data);
+  ///////////
   return <div></div>;
 }
 
