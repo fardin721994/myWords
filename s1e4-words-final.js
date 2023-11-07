@@ -2372,7 +2372,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "آ) غاز ب) غاز ماده",
       examples: [],
     },
   },
@@ -2397,7 +2397,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "گوشت غاز پخته",
       examples: [],
     },
   },
@@ -2473,7 +2473,8 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation:
+        "آ) یه خرده صبر کردن ب) صبر کن ببینم (وقتی متوجه یه چیز جالب یا اشتباه شدی) ج) گوشی رو نگه داشتن",
       examples: [
         { type: "example", text: "Hold on, I’ll just get my coat." },
         {
@@ -2505,7 +2506,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "چیزی را محکم نگه داشتن",
       examples: [
         { type: "example", text: "Hold on tight !" },
         { type: "grammer", text: "to" },
@@ -2534,7 +2535,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "پافشاری کردن",
       examples: [
         { type: "example", text: "San Francisco held on to win 4–2." },
       ],
@@ -2561,7 +2562,7 @@ let data = [
         synonyms: ["starvation"],
         oppositions: [],
       },
-      translation: "",
+      translation: "گرسنگی",
       examples: [
         { type: "collocation", text: "die of/from hunger" },
         {
@@ -2592,7 +2593,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "گرسنگی ، میل به غذا",
       examples: [
         {
           type: "example",
@@ -2626,7 +2627,7 @@ let data = [
         synonyms: ["desire"],
         oppositions: [],
       },
-      translation: "",
+      translation: "عطش ، نیاز یا میل شدید",
       examples: [
         { type: "grammer", text: "hunger for" },
         { type: "example", text: "her hunger for knowledge" },
@@ -2655,7 +2656,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "مربوط به ، در رابطه با",
       examples: [
         {
           type: "example",
@@ -2686,7 +2687,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "بی اعتماد به نفس",
       examples: [
         { type: "grammer", text: "insecure about" },
         { type: "example", text: "She’s very insecure about her appearance." },
@@ -2718,7 +2719,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نامظمئن",
       examples: [
         {
           type: "example",
@@ -2748,7 +2749,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نامطمئن",
       examples: [],
     },
   },
@@ -2773,7 +2774,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "داستان جک و لوبیای سحرآمیز",
       examples: [],
     },
   },
@@ -2812,7 +2813,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "قاضی",
       examples: [
         {
           type: "example",
@@ -2858,7 +2859,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "داور (در یک مسابقه)",
       examples: [
         {
           type: "example",
@@ -2900,7 +2901,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "قضاوت یا تشخیص خوب/بد داشتن در مورد چیزی",
       examples: [
         {
           type: "example",
@@ -3095,7 +3096,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "قضاوت کردن",
       examples: [
         {
           type: "example",
@@ -3177,7 +3178,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "بر اساس ، با توجه به",
       examples: [
         {
           type: "example",
@@ -3223,7 +3224,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "داوری کردن",
       examples: [
         {
           type: "example",
@@ -3273,7 +3274,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "قضاوت کردن",
       examples: [
         {
           type: "example",
@@ -3315,7 +3316,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "قضاوت کردن",
       examples: [],
     },
   },
@@ -3352,7 +3353,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "حق اظهار نظر نداره ، به او ربطی نداره",
       examples: [
         {
           type: "example",
@@ -3394,7 +3395,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "به نظر من ، اونطور که به نظر من میرسه",
       examples: [],
     },
   },
@@ -3431,7 +3432,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "بر اساس ظاهر چیزی در موردش قضاوت نکن",
       examples: [],
     },
   },
@@ -3457,7 +3458,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "کمد (در مدرسه ، باشگاه ، اداره و غیره)",
       examples: [],
     },
   },
@@ -3482,7 +3483,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "سردخانه",
       examples: [{ type: "example", text: "a meat locker" }],
     },
   },
@@ -3507,7 +3508,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نارنگی ، درخت نارنگی",
       examples: [],
     },
   },
@@ -3534,7 +3535,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "انحصار",
       examples: [
         { type: "grammer", text: "monopoly of" },
         {
@@ -3572,7 +3573,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "انحصار",
       examples: [
         { type: "example", text: "The company is a state-owned monopoly." },
       ],
@@ -3599,7 +3600,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "انحصار",
       examples: [
         {
           type: "example",
@@ -3629,7 +3630,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "یک بازی تخته ای",
       examples: [
         {
           type: "example",
@@ -3660,7 +3661,8 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation:
+        "به خواب رفتن (معمولاً در مورد وقتی که قصدش رو نداری یا جایی نشسته ای)",
       examples: [
         {
           type: "example",
@@ -3690,35 +3692,11 @@ let data = [
         synonyms: ["all-powerful"],
         oppositions: [],
       },
-      translation: "",
+      translation: "قادر مطلق",
       examples: [],
     },
   },
-  {
-    word: "omnipotent",
-    pronunciation: "/ ɒmˈnɪpətənt $ ɑːm- /",
-    tooltip: "",
-    frequency: [],
-    partOfSpeech: "adjective",
-    register: "formal",
-    inflections: "",
-    title: "omnipotent",
-    images: [],
-    geo: "",
-    f2n: "",
-    meaning: {
-      index: null,
-      definition: {
-        lexUnit: "",
-        registers: [],
-        text: "able to do everything",
-        synonyms: ["all-powerful"],
-        oppositions: [],
-      },
-      translation: "",
-      examples: [],
-    },
-  },
+
   {
     word: "painkiller",
     pronunciation: "/ ˈpeɪnˌkɪlə $ -ər /",
@@ -3740,36 +3718,12 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "داروی مسکن",
       examples: [{ type: "example", text: "an overdose of painkillers" }],
     },
   },
   //////////
-  {
-    word: "pate",
-    pronunciation: "/ peɪt /",
-    tooltip: "",
-    frequency: [],
-    partOfSpeech: "noun",
-    register: "old use",
-    inflections: "",
-    title: "pate",
-    images: [],
-    geo: "",
-    f2n: "",
-    meaning: {
-      index: null,
-      definition: {
-        lexUnit: "",
-        registers: [],
-        text: "the top of your head",
-        synonyms: [],
-        oppositions: [],
-      },
-      translation: "",
-      examples: [{ type: "example", text: "his bald pate" }],
-    },
-  },
+
   {
     word: "pâté",
     pronunciation: "/ ˈpæteɪ $ pɑːˈteɪ, pæ- /",
@@ -3791,7 +3745,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نوعی غذا",
       examples: [],
     },
   },
@@ -3817,7 +3771,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "چک دریافتی بابت حقوق یک شخص",
       examples: [{ type: "example", text: "a weekly paycheque" }],
     },
   },
@@ -3842,7 +3796,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "مقدار حقوقی که یک شخص دریافت می کند",
       examples: [{ type: "example", text: "a nice fat paycheck" }],
     },
   },
@@ -3867,7 +3821,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "آرام ، ساکت و بدون نگرانی یا هیجان",
       examples: [
         {
           type: "example",
@@ -3898,7 +3852,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "در صلح (بدون جنگ ، درگیری یا خشونت)",
       examples: [
         { type: "collocation", text: "peaceful protest/demonstration" },
         {
@@ -3950,7 +3904,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "صلح طلب",
       examples: [
         {
           type: "example",
@@ -3986,7 +3940,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "آ) حفره ای در زمین ، گودال ، چاله ب) محل حفاری زمین",
       examples: [
         {
           type: "example",
@@ -4027,7 +3981,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "معدن زغال سنگ",
       examples: [
         {
           type: "example",
@@ -4097,7 +4051,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "خانه یا اتاقی که کثیف ، نامرتب یا در وضعیت بدی باشد",
       examples: [],
     },
   },
@@ -4247,7 +4201,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "گود تعمیرگاه خودرو",
       examples: [
         {
           type: "example",
@@ -4313,7 +4267,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "هسته",
       examples: [
         {
           type: "example",
@@ -4399,7 +4353,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "سوراخ سوراخ کردن",
       examples: [
         {
           type: "grammer",
@@ -4433,7 +4387,7 @@ let data = [
         synonyms: ["stone"],
         oppositions: [],
       },
-      translation: "",
+      translation: "هسته میوه را درآوردن",
       examples: [
         {
           type: "example",
@@ -4502,7 +4456,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نکته ، ایده",
       examples: [
         {
           type: "example",
@@ -4564,7 +4518,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نکته",
       examples: [
         {
           type: "example",
@@ -4634,11 +4588,11 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "هدف",
       examples: [
         {
           type: "example",
-          text: "I suppose we could save one or two of the trees, but what’s the point ?",
+          text: "I suppose we could save one or two of the trees, but what’s the point?",
         },
         {
           type: "grammer",
@@ -4700,7 +4654,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "محل ، موقعیت",
       examples: [
         {
           type: "example",
@@ -4758,7 +4712,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "مقدار ، زمان ، مرحله یا سطح مشخص",
       examples: [
         {
           type: "example",
@@ -4840,7 +4794,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "ویژگی",
       examples: [
         {
           type: "collocation",
@@ -4910,7 +4864,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "امتیاز",
       examples: [
         {
           type: "example",
@@ -4972,11 +4926,11 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نوک",
       examples: [
         {
           type: "example",
-          text: "a sharp end of something",
+          text: "the sharp point of a spear",
         },
       ],
     },
@@ -5014,7 +4968,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نقطه ، دما (جوش ، انجماد ، ذوب و غیره)",
       examples: [
         {
           type: "example",
@@ -5190,7 +5144,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "تا حدی",
       examples: [
         {
           type: "example",
@@ -5236,7 +5190,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "سر اصل مطلب",
       examples: [
         {
           type: "example",
@@ -5412,46 +5366,9 @@ let data = [
       examples: [
         {
           type: "example",
-          text: "Therestaurant was terrible, not to put too fine a pointon it.",
+          text: "The restaurant was terrible, not to put too fine a point on it.",
         },
-      ],
-    },
-  },
-  {
-    word: "point",
-    pronunciation: "/ pɔɪnt /",
-    tooltip: {
-      text: "●●●",
-      title: "Core vocabulary: High-frequency",
-    },
-    frequency: [
-      {
-        text: "S1",
-        title: "Top 1000 spoken words",
-      },
-      {
-        text: "W1",
-        title: "Top 1000 written words",
-      },
-    ],
-    partOfSpeech: "noun",
-    register: "",
-    inflections: "",
-    title: "point_noun_18",
-    images: [],
-    geo: ["especially British English"],
-    f2n: "",
-    meaning: {
-      index: "18",
-      definition: {
-        lexUnit: "not to put too fine a point on it",
-        registers: [],
-        text: "used when you are saying something in a very direct way",
-        synonyms: [],
-        oppositions: [],
-      },
-      translation: "",
-      examples: [
+
         {
           type: "example",
           text: "She’s lying, not to put too fine a point on it.",
@@ -5459,6 +5376,7 @@ let data = [
       ],
     },
   },
+
   {
     word: "point",
     pronunciation: "/ pɔɪnt /",
@@ -5488,11 +5406,11 @@ let data = [
       definition: {
         lexUnit: "",
         registers: [],
-        text: "a sign (.) used to separate a whole number from any decimal s that follow it",
+        text: "a sign (.) used to separate a whole number from any decimals that follow it",
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نقطه (که بخش صحیح یک عدد را از بخش اعشاری آن جدا می کند)",
       examples: [],
     },
   },
@@ -5571,7 +5489,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نقطه",
       examples: [
         {
           type: "example",
@@ -5697,7 +5615,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "پریز",
       examples: [
         {
           type: "example",
@@ -5785,7 +5703,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "اشاره کردن ، نشان دادن",
       examples: [
         {
           type: "example",
@@ -5859,7 +5777,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نشانه رفتن ، هدف گرفتن",
       examples: [
         {
           type: "grammer",
@@ -5909,7 +5827,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نشانه رفتن ، در جهت خاصی بودن ، رو به جهت خاصی بودن",
       examples: [
         {
           type: "example",
@@ -5975,7 +5893,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "راه را نشان دادن ، راهنمایی کردن",
       examples: [
         {
           type: "example",
@@ -6021,7 +5939,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "راهنمایی کردن ، راه را نشان دادن",
       examples: [
         {
           type: "example",
@@ -6195,7 +6113,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "سرزنش کردن ، انتقاد کردن",
       examples: [
         {
           type: "example",
@@ -6241,7 +6159,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "راه را نشان دادن",
       examples: [
         {
           type: "grammer",
@@ -6293,7 +6211,8 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation:
+        "یک موقعیت سخت یا نامطلوب که نمی دونی چیکار باید کنی یا مجبوری تصمیم صختی بگیری",
       examples: [
         { type: "example", text: "the country’s economic predicament" },
         {
@@ -6329,7 +6248,7 @@ let data = [
         synonyms: ["homework"],
         oppositions: [],
       },
-      translation: "",
+      translation: "تکلیف مدرسه",
       examples: [],
     },
   },
@@ -6354,7 +6273,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "آماده کردن کسی برای عمل جراحی یا معاینه پزشکی",
       examples: [],
     },
   },
@@ -6379,7 +6298,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "آماده کردن مواد اولیه غذا در یک رستوران",
       examples: [],
     },
   },
@@ -6404,7 +6323,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "آماده شدن",
       examples: [
         { type: "example", text: "I have to prep for my afternoon class." },
       ],
@@ -6416,7 +6335,7 @@ let data = [
     tooltip: "",
     frequency: [],
     partOfSpeech: "",
-    register: "",
+    register: "(also prep British English)",
     inflections: "",
     title: "prep.",
     images: [],
@@ -6427,7 +6346,7 @@ let data = [
       definition: {
         lexUnit: "",
         registers: [],
-        text: "the written abbreviation of",
+        text: "the written abbreviation of preposition",
         synonyms: [],
         oppositions: [],
       },
@@ -6482,7 +6401,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "ارتقاء دادن",
       examples: [
         {
           type: "example",
@@ -6513,7 +6432,7 @@ let data = [
         synonyms: [],
         oppositions: ["demote"],
       },
-      translation: "",
+      translation: "ارتقاء دادن",
       examples: [
         { type: "grammer", text: "promote somebody to something" },
         { type: "example", text: "Helen was promoted to senior manager." },
@@ -6541,7 +6460,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "تبلیغ کردن",
       examples: [
         { type: "example", text: "She’s in London to promote her new book." },
       ],
@@ -6568,7 +6487,7 @@ let data = [
         synonyms: [],
         oppositions: ["relegate"],
       },
-      translation: "",
+      translation: "ارتقاء دادن ، صعود کردن",
       examples: [
         { type: "grammer", text: "be promoted to something" },
         {
@@ -6599,7 +6518,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "تبلیغ کردن",
       examples: [
         {
           type: "example",
@@ -6704,7 +6623,8 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation:
+        "یک جنگل گرمسیری با درختان انبوه در جایی که باران زیادی می بارد",
       examples: [
         { type: "example", text: "the destruction of the rain forest" },
       ],
@@ -6731,7 +6651,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "اطمینان خاطر دادن",
       examples: [
         { type: "example", text: "Teachers reassured anxious parents." },
         { type: "grammer", text: "reassure somebody (that)" },
@@ -6764,7 +6684,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "خشن بازی کردن ، ادای دعوا کردن درآوردن",
       examples: [
         {
           type: "example",
@@ -6794,7 +6714,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نوعی مشروب قوی",
       examples: [],
     },
   },
@@ -6819,7 +6739,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "عجیب و غریب",
       examples: [],
     },
   },
@@ -6844,7 +6764,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "رابطه جنسی داشتن با کسی",
       examples: [
         {
           type: "example",
@@ -6899,7 +6819,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "خوابیدن",
       examples: [],
     },
   },
@@ -6924,7 +6844,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "خواب",
       examples: [{ type: "example", text: "He passed into a deep slumber." }],
     },
   },
@@ -6950,7 +6870,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نیمه خالی/پر لیوان رو دیدن",
       examples: [],
     },
   },
@@ -6975,11 +6895,11 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "ساقه",
       examples: [
         {
           type: "example",
-          text: "a long narrow part of a plant that supports leaves, fruits, or flowers",
+          text: "celery stalks",
         },
       ],
     },
@@ -7030,7 +6950,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "چشم های کسی از حدقه بیرون زدن (خیلی تعجب کردن یا شوک شدن)",
       examples: [],
     },
   },
@@ -7055,7 +6975,8 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation:
+        "بی سر و صدا دنبال انسانی یا حیوانی رفتن برای گرفتن ، حمله یا کشتن اون",
       examples: [
         { type: "example", text: "a tiger stalking its prey" },
         {
@@ -7086,7 +7007,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "تعقیب کردن و زیرنظر داشتن",
       examples: [
         { type: "example", text: "She was stalked by an obsessed fan." },
       ],
@@ -7175,7 +7096,8 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation:
+        "کاری کنی که شخصی دست از فکر کردن یا نگران بودن در مورد چیزی برداره",
       examples: [
         {
           type: "example",
@@ -7209,7 +7131,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "مردم روستا",
       examples: [
         { type: "example", text: "The whole village came to the meeting." },
       ],
@@ -7236,7 +7158,8 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation:
+        "استراحت کردن ، کار متفاوتی غیر از شغل یا فعالیت های معمول انجام دادن",
       examples: [
         {
           type: "example",
@@ -7267,7 +7190,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "وقت استراحت",
       examples: [
         {
           type: "example",
@@ -7348,11 +7271,11 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "انبرک",
       examples: [
         {
           type: "example",
-          text: "a small tool that has two narrow pieces of metal joined at one end, used to pull or move very small objects",
+          text: "She was plucking her eyebrows with a pair of tweezers.",
         },
       ],
     },
@@ -7374,11 +7297,12 @@ let data = [
       definition: {
         lexUnit: "",
         registers: [],
-        text: "someone you love or think is attractive, that you send a card to on St Valentine ’s Day",
+        text: "someone you love or think is attractive, that you send a card to on St Valentine’s Day",
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation:
+        "شخصی که عاشقشی یا به نظرت جذابه و روز ولنتاین براش یه کارت می فرستی",
       examples: [{ type: "example", text: "Be my valentine." }],
     },
   },
@@ -7403,7 +7327,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "کارتی که روز ولنتاین برای کسی می فرستی",
       examples: [],
     },
   },
@@ -7428,7 +7352,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "گلدان",
       examples: [],
     },
   },
@@ -7454,11 +7378,11 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "گیاه خوار",
       examples: [
         { type: "example", text: "Our youngest daughter is a vegetarian." },
         { type: "example", text: "dishes suitable for vegetarians" },
-        { type: "example", text: "I’m thinking about becoming a vegetarian ." },
+        { type: "example", text: "I’m thinking about becoming a vegetarian." },
       ],
     },
   },
@@ -7497,7 +7421,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "راه ، روش",
       examples: [
         {
           type: "example",
@@ -7607,7 +7531,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "طرز ، روش",
       examples: [
         {
           type: "example",
@@ -7701,7 +7625,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "راه",
       examples: [
         {
           type: "collocation",
@@ -7819,7 +7743,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "جهت ، لحاظ",
       examples: [
         {
           type: "collocation",
@@ -7889,7 +7813,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "فاصله یا زمان (به ویژه یک فاصله یا زمان خیلی طولانی)",
       examples: [
         {
           type: "example",
@@ -7923,10 +7847,7 @@ let data = [
           type: "example",
           text: "Did you really swim all the way across?",
         },
-        {
-          type: "example",
-          text: "I was awake all through the night.",
-        },
+
         {
           type: "collocation",
           text: "a (long) ways",
@@ -7971,7 +7892,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "سد راه (به معنی مسیر کسی را بستن)",
       examples: [
         {
           type: "grammer",
@@ -7988,10 +7909,6 @@ let data = [
         {
           type: "example",
           text: "A policeman yelled at the crowds to get out of the way .",
-        },
-        {
-          type: "example",
-          text: "The way ahead was blocked.",
         },
       ],
     },
@@ -8029,7 +7946,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "راه را باز کردن",
       examples: [
         {
           type: "example",
@@ -8071,11 +7988,12 @@ let data = [
       definition: {
         lexUnit: "out of the way",
         registers: [],
-        text: "an out-of-the-way place is in an area where there are few people",
+        text: "a) an out-of-the-way place is in an area where there are few people b) unusual or strange c)if someone or something is out of the way, they are somewhere where they are not likely to cause a problem, need attention, be annoying etc\nd) if a particular matter, job etc is out of the way, it has been done or dealt with\n",
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation:
+        "آ) دور افتاده ب) غیرمعمول ، عجیب و غریب ج) از سر راه برداشته (به معنی اینکه مشکل برطرف شده و نیازی به نگرانی نیست ) د) برطرف شده (در مورد مسئله یا مشکل)",
       examples: [
         {
           type: "example",
@@ -8085,86 +8003,10 @@ let data = [
           type: "example",
           text: "It’s a great little pub, but a bit out of the way.",
         },
-      ],
-    },
-  },
-  {
-    word: "way",
-    pronunciation: "/ weɪ /",
-    tooltip: {
-      text: "●●●",
-      title: "Core vocabulary: High-frequency",
-    },
-    frequency: [
-      {
-        text: "S1",
-        title: "Top 1000 spoken words",
-      },
-      {
-        text: "W1",
-        title: "Top 1000 written words",
-      },
-    ],
-    partOfSpeech: "noun",
-    register: "",
-    inflections: "",
-    title: "way_noun_8",
-    images: [],
-    geo: ["British English"],
-    f2n: "",
-    meaning: {
-      index: "8",
-      definition: {
-        lexUnit: "out of the way",
-        registers: [],
-        text: "unusual or strange",
-        synonyms: [],
-        oppositions: [],
-      },
-      translation: "",
-      examples: [
         {
           type: "example",
           text: "Her taste in music is a bit out-of-the-way.",
         },
-      ],
-    },
-  },
-  {
-    word: "way",
-    pronunciation: "/ weɪ /",
-    tooltip: {
-      text: "●●●",
-      title: "Core vocabulary: High-frequency",
-    },
-    frequency: [
-      {
-        text: "S1",
-        title: "Top 1000 spoken words",
-      },
-      {
-        text: "W1",
-        title: "Top 1000 written words",
-      },
-    ],
-    partOfSpeech: "noun",
-    register: "",
-    inflections: "",
-    title: "way_noun_8",
-    images: [],
-    geo: "",
-    f2n: "",
-    meaning: {
-      index: "8",
-      definition: {
-        lexUnit: "out of the way",
-        registers: [],
-        text: "a)if someone or something is out of the way, they are somewhere where they are not likely to cause a problem, need attention, be annoying etc\nb)if a particular matter, job etc is out of the way, it has been done or dealt with\nc)a place that is out of the way is far from any towns\n",
-        synonyms: [],
-        oppositions: [],
-      },
-      translation: "",
-      examples: [
         {
           type: "collocation",
           text: "move/put/push etc something out of the way",
@@ -8192,6 +8034,7 @@ let data = [
       ],
     },
   },
+
   {
     word: "way",
     pronunciation: "/ weɪ /",
@@ -8453,7 +8296,8 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation:
+        " آ) جایگزین شدن ب) تسلیم شدن ، به چیزی تن دادن ج) شکستن بخاطر تحمل وزن یا فشار زیاد د) راه دادن (در رانندگی به معنی به بقیه خودرو ها اجازه اول رفتن دادن)",
       examples: [
         {
           type: "grammer",
@@ -8523,7 +8367,8 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation:
+        "راه را باز کردن یا هموار کردن برای چیزی (به معنی : اتفاق افتادن یا رشد چیزی را ممکن کردن)",
       examples: [
         {
           type: "example",
@@ -8619,7 +8464,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "حالت ، وضعیت ، طرز",
       examples: [
         {
           type: "example",
@@ -8831,7 +8676,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "کمک کردن به تحقق چیزی",
       examples: [
         {
           type: "example",
@@ -8931,7 +8776,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "در رنج",
       examples: [
         {
           type: "example",
@@ -8973,7 +8818,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "به هر نحوی ، به هر شکلی",
       examples: [
         {
           type: "example",
@@ -9135,7 +8980,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "جلوگیری کردن از کسی یا چیزی",
       examples: [
         {
           type: "example",
@@ -9177,7 +9022,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "تلاش مضاعف کردن",
       examples: [
         {
           type: "example",
@@ -9219,7 +9064,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "هر کاری دلت می خواد انجام دادن",
       examples: [
         {
           type: "example",
@@ -9261,7 +9106,8 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation:
+        "راه خود را رفتن (به معنی : اون چیزی که می خوای رو انجام بدی ، خودت در مورد زندگی خودت تصمیم بگیری و غیره)",
       examples: [
         {
           type: "example",
@@ -9483,7 +9329,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "به خواسته خود رسیدن با گفتن چیزی یا انجام کاری",
       examples: [
         {
           type: "example",
@@ -9613,7 +9459,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "اون طرف خیابون",
       examples: [
         {
           type: "example",
@@ -9739,7 +9585,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "به هیچ وجه",
       examples: [
         {
           type: "example",
@@ -9781,7 +9627,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "قسمت",
       examples: [
         {
           type: "example",
@@ -9823,7 +9669,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "قلق کسی یا چیزی را بلد بودن",
       examples: [
         {
           type: "example",
@@ -9869,7 +9715,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "راه و رسم روزگار",
       examples: [
         {
           type: "example",
@@ -9878,48 +9724,7 @@ let data = [
       ],
     },
   },
-  {
-    word: "way",
-    pronunciation: "/ weɪ /",
-    tooltip: {
-      text: "●●●",
-      title: "Core vocabulary: High-frequency",
-    },
-    frequency: [
-      {
-        text: "S1",
-        title: "Top 1000 spoken words",
-      },
-      {
-        text: "W1",
-        title: "Top 1000 written words",
-      },
-    ],
-    partOfSpeech: "noun",
-    register: "",
-    inflections: "",
-    title: "way_noun_44",
-    images: [],
-    geo: ["American English"],
-    f2n: "",
-    meaning: {
-      index: "44",
-      definition: {
-        lexUnit: "every which way",
-        registers: ["informal"],
-        text: "in every direction",
-        synonyms: [],
-        oppositions: [],
-      },
-      translation: "",
-      examples: [
-        {
-          type: "example",
-          text: "The kids ran off every which way.",
-        },
-      ],
-    },
-  },
+
   {
     word: "way",
     pronunciation: "/ weɪ /",
@@ -9955,6 +9760,10 @@ let data = [
       },
       translation: "",
       examples: [
+        {
+          type: "example",
+          text: "The kids ran off every which way.",
+        },
         {
           type: "example",
           text: "Bullets were flying every which way.",
@@ -10037,11 +9846,11 @@ let data = [
       definition: {
         lexUnit: "no way!",
         registers: [],
-        text: "used to emphasize that you will not agree or be able to do something",
+        text: "a) used to emphasize that you will not agree or be able to do something\n b) used to say that you will definitely not do or allow something\nc) used to say that you do not believe something or are very surprised by it\n",
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "امکان نداره",
       examples: [
         {
           type: "example",
@@ -10055,44 +9864,6 @@ let data = [
           type: "example",
           text: "There’s no way I’m going to pay £500 just for a weekend in Paris.",
         },
-      ],
-    },
-  },
-  {
-    word: "way",
-    pronunciation: "/ weɪ /",
-    tooltip: {
-      text: "●●●",
-      title: "Core vocabulary: High-frequency",
-    },
-    frequency: [
-      {
-        text: "S1",
-        title: "Top 1000 spoken words",
-      },
-      {
-        text: "W1",
-        title: "Top 1000 written words",
-      },
-    ],
-    partOfSpeech: "noun",
-    register: "",
-    inflections: "",
-    title: "way_noun_47",
-    images: [],
-    geo: ["especially American English"],
-    f2n: "",
-    meaning: {
-      index: "47",
-      definition: {
-        lexUnit: "no way!",
-        registers: [],
-        text: "a)used to say that you will definitely not do or allow something\nb)used to say that you do not believe something or are very surprised by it\n",
-        synonyms: [],
-        oppositions: [],
-      },
-      translation: "",
-      examples: [
         {
           type: "example",
           text: "‘Can I borrow your car?’ ‘No way!’",
@@ -10112,6 +9883,7 @@ let data = [
       ],
     },
   },
+
   {
     word: "way",
     pronunciation: "/ weɪ /",
@@ -10145,7 +9917,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "به نظر من",
       examples: [
         {
           type: "example",
@@ -10187,7 +9959,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "حالا شد ، اینجوری درسته",
       examples: [
         {
           type: "example",
@@ -10276,7 +10048,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "کاملاً با کسی موافق بودن",
       examples: [
         {
           type: "example",
@@ -10434,7 +10206,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نمی تونی هم خدا رو بخوای هم خرما رو",
       examples: [
         {
           type: "example",
@@ -10625,7 +10397,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "خیلی",
       examples: [
         {
           type: "grammer",
@@ -10671,7 +10443,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "خیلی",
       examples: [
         {
           type: "grammer",
@@ -10737,7 +10509,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "خیلی",
       examples: [
         {
           type: "example",
@@ -10774,7 +10546,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "گریه کردن",
       examples: [
         { type: "example", text: "James broke down and wept." },
         { type: "grammer", text: "weep for" },
@@ -10837,7 +10609,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "ترشح کردن زخم",
       examples: [],
     },
   },
@@ -11061,7 +10833,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "پاک کردن چیزی از ذهن/حافظه (به معنی : فراموش کردن)",
       examples: [],
     },
   },
@@ -11199,7 +10971,8 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation:
+        "از رو زمین پاک کردن ، از رو نقشه پاک کردن (به معنی : نابود کردن)",
       examples: [
         {
           type: "example",
@@ -11237,7 +11010,7 @@ let data = [
         synonyms: ["dry"],
         oppositions: [],
       },
-      translation: "",
+      translation: "خشک کردن",
       examples: [
         {
           type: "example",
@@ -11294,7 +11067,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "پیش بند",
       examples: [],
     },
   },
