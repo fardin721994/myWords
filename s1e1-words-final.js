@@ -99,9 +99,9 @@ let data = [
     meaning: {
       index: "2",
       definition: {
-        lexUnit: "",
+        lexUnit: "speed/traffic humps",
         registers: [],
-        text: "speed/traffic humps\na series of humps in the road, designed to make traffic  slow down",
+        text: "a series of humps in the road, designed to make traffic slow down",
         synonyms: [],
         oppositions: [],
       },
@@ -175,9 +175,9 @@ let data = [
     meaning: {
       index: "5",
       definition: {
-        lexUnit: "",
+        lexUnit: "be over the hump",
         registers: [],
-        text: "be over the hump\nto have finished the most difficult part of something",
+        text: "to have finished the most difficult part of something",
         synonyms: [],
         oppositions: [],
       },
@@ -200,9 +200,9 @@ let data = [
     meaning: {
       index: "6",
       definition: {
-        lexUnit: "",
+        lexUnit: "give somebody the hump/get the hump",
         registers: ["spoken"],
-        text: "give somebody the hump/get the hump\nto make someone feel angry or upset, or to feel angry or upset",
+        text: "to make someone feel angry or upset, or to feel angry or upset",
         synonyms: [],
         oppositions: [],
       },
@@ -289,7 +289,7 @@ let data = [
       definition: {
         lexUnit: "",
         registers: [],
-        text: "soft white or grey  rock formed a long time ago from the shells of small sea animals",
+        text: "soft white or grey rock formed a long time ago from the shells of small sea animals",
         synonyms: ["limestone"],
         oppositions: [],
       },
@@ -326,6 +326,41 @@ let data = [
       ],
     },
   },
+
+  {
+    word: "chalk",
+    pronunciation: "/ tʃɔːk $ tʃɒːk /",
+    tooltip: { text: "●○○", title: "Core vocabulary: Lower-frequency" },
+    frequency: [],
+    partOfSpeech: "noun",
+    register: "",
+    inflections: "",
+    title: "chalk_noun_3",
+    images: [],
+    geo: "",
+    f2n: "",
+    meaning: {
+      index: "3",
+      definition: {
+        lexUnit: "chalk and cheese",
+        registers: [],
+        text: "completely different from each other",
+        synonyms: [],
+        oppositions: [],
+      },
+      translation: "دو چیز کاملاً متفاوت",
+      examples: [
+        {
+          type: "example",
+          text: "The two brothers are as different as chalk and cheese.",
+        },
+        {
+          type: "example",
+          text: "They’re like chalk and cheese, those two.",
+        },
+      ],
+    },
+  },
   {
     word: "chalk",
     pronunciation: "/ tʃɔːk $ tʃɒːk /",
@@ -351,41 +386,6 @@ let data = [
       examples: [],
     },
   },
-  {
-    word: "chalk",
-    pronunciation: "/ tʃɔːk $ tʃɒːk /",
-    tooltip: { text: "●○○", title: "Core vocabulary: Lower-frequency" },
-    frequency: [],
-    partOfSpeech: "noun",
-    register: "",
-    inflections: "",
-    title: "chalk_noun_3",
-    images: [],
-    geo: "",
-    f2n: "",
-    meaning: {
-      index: "3",
-      definition: {
-        lexUnit: "",
-        registers: [],
-        text: "chalk and cheese\ncompletely different from each other",
-        synonyms: [],
-        oppositions: [],
-      },
-      translation: "دو چیز کاملاً متفاوت",
-      examples: [
-        {
-          type: "example",
-          text: "The two brothers are as different as chalk and cheese .",
-        },
-        {
-          type: "example",
-          text: "They’re like chalk and cheese, those two.",
-        },
-      ],
-    },
-  },
-
   ////////// go through
 
   {
@@ -409,7 +409,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "تجربه کردن یک موقعیت ، احساس یا ... سخت یا نامطلوب",
+      translation: "تجربه کردن یک موقعیت ، احساس یا ... سخت یا ناخوشایند",
       examples: [
         {
           type: "example",
@@ -827,7 +827,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "قرار ملاقات رمانتیک ، کسی که با او قرار رمانتیک دارید",
+      translation: "آ) قرار ملاقات رمانتیک ب) کسی که با او قرار رمانتیک دارید",
       examples: [
         {
           type: "grammer",
@@ -839,7 +839,7 @@ let data = [
         },
         {
           type: "example",
-          text: "I felt like a teenager going out on a first date .",
+          text: "I felt like a teenager going out on a first date.",
         },
         {
           type: "grammer",
@@ -1144,7 +1144,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "نشان دادن اینکه سن شما نسبتاً زیاد است",
       examples: [
         {
           type: "example",
@@ -1178,7 +1178,7 @@ let data = [
         oppositions: [],
       },
       translation: "غذاخوری (در مدرسه ، دانشگاه ، کارخانه و ... )",
-      examples: [{ type: "example", text: "the school cafeteria" }],
+      examples: [{ type: "example", text: "theschool cafeteria" }],
     },
   },
   //////////////////
@@ -1369,7 +1369,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "",
+      translation: "با لباس های خوب، زیبا، بد و غیره",
       examples: [
         { type: "example", text: "elegantly turned-out young ladies" },
       ],
@@ -1527,7 +1527,7 @@ let data = [
         },
         {
           type: "example",
-          text: "Officials denounced the settlers’ land grab .",
+          text: "Officials denounced the settlers’ land grab.",
         },
       ],
     },
@@ -1565,7 +1565,7 @@ let data = [
         synonyms: ["snatch"],
         oppositions: [],
       },
-      translation: "گرفتن (با دست)",
+      translation: "گرفتن (با دست) کسی یا چیزی با یک حرکت ناگهانی یا خشن",
       examples: [
         {
           type: "example",
@@ -1623,7 +1623,7 @@ let data = [
         synonyms: ["snatch"],
         oppositions: [],
       },
-      translation: "",
+      translation: "سریع غذا خوردن یا خوابیدن (به دلیل اینکه خیلی سرت شلوغه)",
       examples: [
         {
           type: "example",
@@ -1781,7 +1781,7 @@ let data = [
         },
         {
           type: "example",
-          text: "The plight of the refugees immediately grabbed the headlines (= was the most important story in the newspapers ) .",
+          text: "The plight of the refugees immediately grabbed the headlines (= was the most important story in the newspapers ).",
         },
       ],
     },
@@ -1886,7 +1886,7 @@ let data = [
         lexUnit: "",
         registers: [],
         text: "the long tube in your body through which food passes after it leaves your stomach",
-        synonyms: [""],
+        synonyms: [],
         oppositions: [],
       },
       translation: "روده",
@@ -1929,7 +1929,7 @@ let data = [
         synonyms: [],
         oppositions: [],
       },
-      translation: "چیز ، چیز ها",
+      translation: "چیز ، چیزها",
       examples: [
         {
           type: "example",
@@ -2045,7 +2045,7 @@ let data = [
         },
         {
           type: "example",
-          text: "He does mountain biking and skiing, and stuff like that .",
+          text: "He does mountain biking and skiing, and stuff like that.",
         },
       ],
     },
@@ -2229,11 +2229,11 @@ let data = [
       examples: [
         {
           type: "example",
-          text: "Does he have the right stuff (= qualities that make you able to deal with difficulties ) ?",
+          text: "Does he have the right stuff (= qualities that make you able to deal with difficulties)?",
         },
         {
           type: "example",
-          text: "Surely you’re not going to give up? I thought you were made of sterner stuff (= were more determined ) .",
+          text: "Surely you’re not going to give up? I thought you were made of sterner stuff (= were more determined ).",
         },
       ],
     },
@@ -2647,7 +2647,7 @@ let data = [
       translation: "هاله",
       examples: [
         { type: "grammer", text: "aura of" },
-        { type: "example", text: "The building retains an aura of mystery ." },
+        { type: "example", text: "The building retains an aura of mystery." },
       ],
     },
   },
@@ -2997,7 +2997,7 @@ let data = [
         { type: "example", text: "He turned on the gas and lit the stove." },
         {
           type: "example",
-          text: "‘I’m thirsty, ’ she said, turning on the tap .",
+          text: "‘I’m thirsty, ’ she said, turning on the tap.",
         },
       ],
     },
@@ -3698,7 +3698,7 @@ let data = [
           text: "Our ship was badly hit and sank within minutes.",
         },
         { type: "example", text: "A second shot hit her in the back." },
-        { type: "example", text: "The bomb failed to hit its target ." },
+        { type: "example", text: "The bomb failed to hit its target." },
       ],
     },
   },
@@ -3812,7 +3812,7 @@ let data = [
       translation: "رسیدن به سطح یا عدد خاصی",
       examples: [
         { type: "example", text: "Sales have hit the 1 million mark ." },
-        { type: "collocation", text: "hit a peak/an all-time high etc" },
+        { type: "collocation", text: "hit a peak/an al-time high etc" },
         { type: "example", text: "Earnings hit a peak in the early 1980s." },
         { type: "collocation", text: "hit rock-bottom/an all-time low etc" },
         { type: "example", text: "Oil prices have hit rock-bottom." },
@@ -3852,7 +3852,7 @@ let data = [
         },
         {
           type: "example",
-          text: "He was gone before they knew what had hit them (= realized what had happened ) .",
+          text: "He was gone before they knew what had hit them (= realized what had happened ).",
         },
       ],
     },
@@ -5294,7 +5294,7 @@ let data = [
         },
         {
           type: "example",
-          text: "In Arizona, 480 people are waiting for organ transplants .",
+          text: "In Arizona, 480 people are waiting for organ transplants.",
         },
         {
           type: "example",
@@ -6420,7 +6420,7 @@ let data = [
         },
         {
           type: "example",
-          text: "If you go back to the city, you’re bound to get caught .",
+          text: "If you go back to the city, you’re bound to get caught.",
         },
       ],
     },
@@ -6737,7 +6737,7 @@ let data = [
         },
         {
           type: "example",
-          text: "I have to hurry – I have a bus to catch .",
+          text: "I have to hurry – I have a bus to catch.",
         },
       ],
     },
@@ -7051,7 +7051,7 @@ let data = [
       examples: [
         {
           type: "example",
-          text: "We could catch a movie (= go to a movie ) .",
+          text: "We could catch a movie (= go to a movie ).",
         },
         {
           type: "example",
@@ -8088,7 +8088,7 @@ let data = [
         },
         {
           type: "collocation",
-          text: "who/what/why etc do you suppose ... ?",
+          text: "who/what/why etc do you suppose ...?",
         },
         {
           type: "example",
@@ -8412,11 +8412,11 @@ let data = [
         },
         {
           type: "example",
-          text: "She was dressed in black from head to toe (= over all her body ) .",
+          text: "She was dressed in black from head to toe (= over all her body ).",
         },
         {
           type: "example",
-          text: "He still has a full head of hair (= has all his hair, even though he is getting rather old ) .",
+          text: "He still has a full head of hair (= has all his hair, even though he is getting rather old ).",
         },
       ],
     },
@@ -10608,7 +10608,7 @@ let data = [
         },
         {
           type: "example",
-          text: "It’s about time we were heading home .",
+          text: "It’s about time we were heading home.",
         },
         {
           type: "collocation",
@@ -10999,7 +10999,7 @@ let data = [
       translation: "آویزان کردن",
       examples: [
         { type: "example", text: "My job was to hang out the washing." },
-        { type: "example", text: "Hang the wet things out to dry ." },
+        { type: "example", text: "Hang the wet things out to dry." },
       ],
     },
   },
@@ -11383,11 +11383,11 @@ let data = [
         },
         {
           type: "example",
-          text: "Sorry – the place is a bit of a mess .",
+          text: "Sorry – the place is a bit of a mess.",
         },
         {
           type: "example",
-          text: "When I got home, the house was a complete mess .",
+          text: "When I got home, the house was a complete mess.",
         },
         {
           type: "grammer",
@@ -11449,7 +11449,7 @@ let data = [
       examples: [
         {
           type: "example",
-          text: "My life’s such a mess .",
+          text: "My life’s such a mess.",
         },
         {
           type: "grammer",
@@ -11616,7 +11616,7 @@ let data = [
       examples: [
         {
           type: "example",
-          text: "We had lunch in the officers’ mess .",
+          text: "We had lunch in the officers’ mess.",
         },
       ],
     },
@@ -13322,7 +13322,7 @@ let data = [
         },
         {
           type: "example",
-          text: "Several cups fell to the floor and smashed to pieces .",
+          text: "Several cups fell to the floor and smashed to pieces.",
         },
       ],
     },
@@ -13773,7 +13773,7 @@ let data = [
         },
         {
           type: "example",
-          text: "An independent committee will look into alleged human rights abuses .",
+          text: "An independent committee will look into alleged human rights abuses.",
         },
       ],
     },
@@ -13823,7 +13823,7 @@ let data = [
         },
         {
           type: "example",
-          text: "A self-monitoring tax system is clearly open to abuse  (= able to be used wrongly ) .",
+          text: "A self-monitoring tax system is clearly open to abuse  (= able to be used wrongly ).",
         },
         {
           type: "collocation",
@@ -14000,7 +14000,7 @@ let data = [
       examples: [
         {
           type: "example",
-          text: "Many soldiers in Belfast are verbally abused .",
+          text: "Many soldiers in Belfast are verbally abused.",
         },
         {
           type: "example",
@@ -15732,7 +15732,7 @@ let data = [
         },
         {
           type: "example",
-          text: "Most people in the countryside live off the land (= live by growing or finding their own food ) .",
+          text: "Most people in the countryside live off the land (= live by growing or finding their own food ).",
         },
       ],
     },
@@ -16218,7 +16218,7 @@ let data = [
         },
         {
           type: "example",
-          text: "She was involved in a head-on crash with a motorbike (= in which the front of one vehicle directly hits the front of another ) .",
+          text: "She was involved in a head-on crash with a motorbike (= in which the front of one vehicle directly hits the front of another ).",
         },
         {
           type: "example",
@@ -16268,7 +16268,7 @@ let data = [
       examples: [
         {
           type: "example",
-          text: "I heard a loud crash .",
+          text: "I heard a loud crash.",
         },
         {
           type: "grammer",
@@ -16479,7 +16479,7 @@ let data = [
         },
         {
           type: "example",
-          text: "A large branch came crashing down .",
+          text: "A large branch came crashing down.",
         },
       ],
     },
@@ -17184,7 +17184,7 @@ let data = [
         },
         {
           type: "example",
-          text: "One of the boxes had split open .",
+          text: "One of the boxes had split open.",
         },
         {
           type: "collocation",
@@ -17196,7 +17196,7 @@ let data = [
         },
         {
           type: "example",
-          text: "Split the pineapple down the middle .",
+          text: "Split the pineapple down the middle.",
         },
       ],
     },
@@ -17263,7 +17263,7 @@ let data = [
         },
         {
           type: "example",
-          text: "We agreed to split the cost .",
+          text: "We agreed to split the cost.",
         },
       ],
     },
@@ -17306,11 +17306,11 @@ let data = [
       examples: [
         {
           type: "example",
-          text: "She fell against a table and split her lip .",
+          text: "She fell against a table and split her lip.",
         },
         {
           type: "example",
-          text: "The force of the blow nearly split his head open .",
+          text: "The force of the blow nearly split his head open.",
         },
       ],
     },
@@ -17924,7 +17924,7 @@ let data = [
         },
         {
           type: "example",
-          text: "It’s just a schoolgirl crush .",
+          text: "It’s just a schoolgirl crush.",
         },
       ],
     },
@@ -18171,7 +18171,7 @@ let data = [
         },
         {
           type: "example",
-          text: "It’s about 30,000 in round figures (= to the nearest 10,20,100 etc ) .",
+          text: "It’s about 30,000 in round figures (= to the nearest 10,20,100 etc ).",
         },
         {
           type: "example",
@@ -18329,7 +18329,7 @@ let data = [
       examples: [
         {
           type: "example",
-          text: "She has a good figure .",
+          text: "She has a good figure.",
         },
         {
           type: "collocation",
@@ -18337,7 +18337,7 @@ let data = [
         },
         {
           type: "example",
-          text: "Most women have to watch their figure (= be careful not to get fat ) .",
+          text: "Most women have to watch their figure (= be careful not to get fat ).",
         },
       ],
     },
@@ -19113,7 +19113,7 @@ let data = [
         },
         {
           type: "example",
-          text: "That kid’s always asking awkward questions .",
+          text: "That kid’s always asking awkward questions.",
         },
         {
           type: "grammer",
